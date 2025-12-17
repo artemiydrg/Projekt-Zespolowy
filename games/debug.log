@@ -1,0 +1,150 @@
+2025-12-09 23:02:33 - Request received
+Data: Array
+(
+    [game] => tictactoe
+    [score] => 10
+)
+
+Insert result: success
+Update result: success
+New score: 10
+2025-12-09 23:04:09 - Request received
+Data: Array
+(
+    [game] => target
+    [score] => 441
+)
+
+Insert result: success
+Update result: success
+New score: 451
+2025-12-09 23:04:55 - Request received
+Data: Array
+(
+    [game] => tictactoe
+    [score] => 10
+)
+
+Insert result: success
+Update result: success
+New score: 10
+2025-12-09 23:04:59 - Request received
+Data: Array
+(
+    [game] => tictactoe
+    [score] => 10
+)
+
+Insert result: success
+Update result: success
+New score: 20
+2025-12-09 23:05:33 - Request received
+Data: Array
+(
+    [game] => target
+    [score] => 360
+)
+
+Insert result: success
+Update result: success
+New score: 380
+2025-12-09 23:06:06 - Request received
+Data: Array
+(
+    [game] => snake
+    [score] => 18
+)
+
+Insert result: success
+Update result: success
+New score: 398
+2025-12-09 23:06:23 - Request received
+Data: Array
+(
+    [game] => clicker
+    [score] => 116
+)
+
+Insert result: success
+Update result: success
+New score: 514
+2025-12-09 23:26:19 - Request received
+Data: Array
+(
+    [game] => tictactoe
+    [score] => 0
+)
+
+Insert result: success
+Update result: success
+New score: 514
+2025-12-15 23:09:15 - Request received
+Data: Array
+(
+    [game] => tictactoe
+    [score] => 10
+)
+
+Insert result: success
+Update result: success
+New score: 461
+2025-12-15 23:09:20 - Request received
+Data: Array
+(
+    [game] => tictactoe
+    [score] => 10
+)
+
+Insert result: success
+Update result: success
+New score: 471
+2025-12-15 23:09:24 - Request received
+Data: Array
+(
+    [game] => tictactoe
+    [score] => 10
+)
+
+Insert result: success
+Update result: success
+New score: 481
+2025-12-15 23:09:59 - Request received
+Data: Array
+(
+    [game] => target
+    [score] => 318
+)
+
+Insert result: success
+Update result: success
+New score: 799
+2025-12-15 23:10:04 - Request received
+Data: Array
+(
+    [game] => snake
+    [score] => 0
+)
+
+Insert result: success
+Update result: success
+New score: 799
+2025-12-15 23:10:59 - Request received
+Data: Array
+(
+    [game] => snake
+    [score] => 34
+)
+
+Insert result: success
+Update result: success
+New score: 833
+2025-12-16 15:25:59 - Request received
+Data: Array
+(
+    [game] => tictactoe
+    [score] => 10
+)
+
+Insert result: success
+Update result: success
+New score: 843
