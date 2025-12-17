@@ -1,0 +1,23 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE/editor
+.vscode/
+.idea/
+
+# PHP / app
+vendor/
+composer.lock
+.env
+config.php
+config.local.php
+
+# Database dumps
+*.sql
+
+# Node
+node_modules/
+
+# Logs
+*.log
